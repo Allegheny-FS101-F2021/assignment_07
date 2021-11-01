@@ -10,7 +10,7 @@ Three short summaries of primary source article which are relevant to your essay
 
 
 ### Due
-By Monday's class: 7th November 2021, 11:59pm
+By Monday's class: 8th November 2021, 11:59pm
 
 
 ### Instructions
