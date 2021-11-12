@@ -1,20 +1,63 @@
-### FS101_F2021, Assignment 7
+### FS101_F2021, Assignment 8
 
-
-### Title
-Three short summaries of primary source article which are relevant to your essay.
-
+### Title of Assignment
+Use or Misuse of Technology Essay involving article support
 
 ### Assigned
-1 November 2021
-
+12 November 2021
 
 ### Due
-By Monday's class: 8th November 2021 at 11:59pm
+Friday, 19th November 2021 at 11:59pm
 
+### Length of Essay:
+2000 words (about three pages)
 
 ### Instructions
-This assignment requires you to locate three articles which are relevant to your essay from Assignment 05. You are to read these articles and to provide *summaries* of no more than 100 words. Remember, you are to capture the relevant points of the article, not to rephrase it. Please angle your thinking in general to the feedback that you received from your instructor. This feedback can be found in your gradebook repository. You will later use these references (along with the one from the previous assignment) to add support and grounding to your previous essay.
+This assignment requires you to rewrite your earlier essay with the support of the three or more articles which you recently summarized from the literature.
+
+From our recent activity in communication with your partner where you explained the premise of your work, your essay is to be inspired from the following types of questions.
+
+ - What is the premise of the essay?
+
+ - What is the focus on the technology or data usage?
+
+ - What are the benefits and disadvantages of the focus?
+
+ - What are the relevant articles?
+
+ - How does each article provide evidence to support the argument of the essay?
+
+ - What ideas do you have to improve the essay with the Reference-based Support from the articles?
+
+
+To help guide your thinking for this essay, the following types of questions ought to be covered in your writing.
+
+**Motivation**
+ - What is the exact technology (data usage) being discussed?
+ - Where did the technology come from, to solve what kinds of problems, in what area or field? Examples?
+ - Who developed it? Who uses it? Where used? Why used?
+ - What can go RIGHT when used according to an intended design? Examples?
+ - What can go WRONG when misused, or used as intended by design? Examples?
+ - Other additions by your informed judgement?
+
+**Digging Deeper Using Article Support**
+ - Reiterate: use or misuse of the technology does cause problems for people, for animals, climate, or in another area.
+ - According to the authors of all summarized articles, what is the proper use of the technology? What else do they say about it?
+ - Instead, what unfortunate results do these authors claim occur from use or misuse? What else do they claim about the use?
+ - What do the authors say about the damaging caused by technology? Why is there damage? Who suffers? Examples from articles or from other articles?
+ - According to the articles, are the long-term problems caused by the design of the technology or its misuse? How? Support your discussion with fact from the articles. Offer other examples to explain to communicate the seriousness of the problems.
+  -What are other unintentional (intentional) repercussions of misuse?  
+
+
+**Informed by your articles, How to you conclude?**
+
+ - Reiterate: There is some kind of problem being created by the use or misuse of the technology. There is some form of suffering.
+ - How did your articles contribute to the discussion of the technology?
+ - What do you think can be done prevent this damage, suffering caused by the technology?
+ - Should laws be made? Should the technology be banned, regulated or used only by a transparent agency?
+ - What can be done to fix the damage that has been created already? What can be done to end the suffering?
+ - What Last thoughts for a better world?
+
 
 
 ### References
